@@ -23,6 +23,7 @@ This repository currently uses **fictional sample data only**. It is not a clien
 - `docs/local-review-checklist.md` — internal pre-publication/privacy/approval checklist before anything leaves the local machine.
 - `docs/review-packet.md` — local review packet with go/no-go criteria and approval-gated next-step options.
 - `docs/public-safe-redaction-check.md` — local preflight for private remote/public-safe readiness, sensitive-data checks, and approval gates.
+- `docs/private-remote-backup-plan.md` — narrow approval plan for a future private backup without treating it as launch.
 - `CHANGELOG.md` — concise local change summary and current status for review.
 - `scripts/validate.js` — tiny validation check that required guardrails and package files exist.
 
@@ -44,4 +45,4 @@ This repository currently uses **fictional sample data only**. It is not a clien
 
 ## Suggested paid-offer shape later
 
-After approval, this could become a fixed-scope audit package: intake call, workflow map, top 3 safe automation opportunities, implementation risk notes, and a lightweight roadmap. The completed fictional report, fictional discovery notes, client-safe intake questionnaire, pilot blueprint template, fictional pilot blueprint, acceptance scorecard, fictional acceptance log, service one-pager, offer options, landing-page draft, local review checklist, review packet, and public-safe redaction preflight are proof-of-deliverable/offer assets that can be reviewed locally before any public offer. Any outreach, public offer, payment setup, or client work requires Charlie's explicit approval first.
+After approval, this could become a fixed-scope audit package: intake call, workflow map, top 3 safe automation opportunities, implementation risk notes, and a lightweight roadmap. The completed fictional report, fictional discovery notes, client-safe intake questionnaire, pilot blueprint template, fictional pilot blueprint, acceptance scorecard, fictional acceptance log, service one-pager, offer options, landing-page draft, local review checklist, review packet, public-safe redaction preflight, and private remote backup plan are proof-of-deliverable/offer assets that can be reviewed locally before any public offer. Any outreach, public offer, payment setup, or client work requires Charlie's explicit approval first.

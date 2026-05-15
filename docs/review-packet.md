@@ -24,7 +24,8 @@ Current status:
 6. Read `samples/fictional-acceptance-log.md` to inspect how the pilot would be judged.
 7. Read `docs/landing-page-draft.md` for claims, safety, and CTA risk.
 8. Read `docs/public-safe-redaction-check.md` before considering any remote/public prep.
-9. Run `npm run check` to verify package completeness and required guardrail phrases.
+9. Read `docs/private-remote-backup-plan.md` if private backup is the chosen next step.
+10. Run `npm run check` to verify package completeness and required guardrail phrases.
 
 ## Deliverables included
 
@@ -43,6 +44,7 @@ Current status:
 | `docs/landing-page-draft.md` | Is the public copy safe enough to polish later without guarantees or hype? |
 | `docs/local-review-checklist.md` | Are approval gates explicit before anything leaves the local machine? |
 | `docs/public-safe-redaction-check.md` | Are file inventory, redaction checks, release blockers, and externalization gates clear? |
+| `docs/private-remote-backup-plan.md` | Is the lowest-risk backup step narrow enough to approve without becoming a launch? |
 
 ## Go / no-go criteria
 

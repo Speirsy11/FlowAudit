@@ -23,6 +23,7 @@ const requiredFiles = [
   'docs/local-review-checklist.md',
   'docs/review-packet.md',
   'docs/public-safe-redaction-check.md',
+  'docs/private-remote-backup-plan.md',
 ];
 
 const requiredPhrases = [
@@ -66,6 +67,10 @@ const requiredPhrases = [
   'Public-Safe / Private-Remote Preflight Check',
   'Release-blocking findings',
   'Do not create the remote or push until approved',
+  'Private Remote Backup Plan',
+  'Approval request wording',
+  'Rollback / containment',
+  'Do not perform this step yet',
   'private remote backup',
 ];
 

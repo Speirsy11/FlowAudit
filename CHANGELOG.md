@@ -23,6 +23,7 @@ This repository is private/local as of 2026-05-15. Nothing in this changelog imp
 - Added a draft-only pilot blueprint template and fictional Northstar pilot blueprint sample for the higher-value add-on deliverable.
 - Added an acceptance scorecard template and fictional Northstar acceptance log to show how usefulness and safety would be judged before implementation.
 - Added a public-safe/private-remote preflight check with file inventory, sensitive-data checks, release blockers, and approval gates.
+- Added a private remote backup plan with approval wording, non-goals, rollback/containment, and success criteria.
 - Added `scripts/validate.js` and `npm run check` to verify required files and guardrail phrases.
 
 ### Verification
