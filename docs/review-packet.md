@@ -20,8 +20,9 @@ Current status:
 2. Read `samples/completed-audit-report.md` as if receiving the deliverable after an audit.
 3. Read `templates/client-safe-intake-questionnaire.md` to confirm future intake would avoid secrets, exports, and regulated data.
 4. Read `docs/offer-options.md` for package clarity and whether the draft scope feels sellable.
-5. Read `docs/landing-page-draft.md` for claims, safety, and CTA risk.
-6. Run `npm run check` to verify package completeness and required guardrail phrases.
+5. Read `samples/fictional-pilot-blueprint.md` to review the possible higher-value add-on deliverable.
+6. Read `docs/landing-page-draft.md` for claims, safety, and CTA risk.
+7. Run `npm run check` to verify package completeness and required guardrail phrases.
 
 ## Deliverables included
 
@@ -30,6 +31,8 @@ Current status:
 | `samples/completed-audit-report.md` | Would this feel useful enough to pay for if it matched a real business? |
 | `templates/scoring-rubric.md` | Are the scores understandable and safety-weighted? |
 | `templates/client-safe-intake-questionnaire.md` | Does intake avoid sensitive data and stop risky scopes early? |
+| `templates/pilot-blueprint-template.md` | Is the post-audit pilot planning deliverable bounded, reversible, and draft-only? |
+| `samples/fictional-pilot-blueprint.md` | Does the higher-value add-on feel concrete without requiring live integrations? |
 | `docs/service-one-pager.md` | Is the promise narrow, practical, and credible? |
 | `docs/discovery-call-script.md` | Could a future approved call validate demand without becoming outreach spam or consulting creep? |
 | `docs/offer-options.md` | Are the package boundaries clear enough to quote later? |

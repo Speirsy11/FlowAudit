@@ -9,8 +9,10 @@ This repository currently uses **fictional sample data only**. It is not a clien
 - `samples/fictional-intake.md` — example intake for a fictional local service business.
 - `samples/fictional-discovery-notes.md` — fictional notes proving the discovery script can feed the audit report.
 - `samples/completed-audit-report.md` — completed fictional report showing how the kit could be packaged for validation/sales conversations.
+- `samples/fictional-pilot-blueprint.md` — fictional draft-only pilot blueprint for the recommended Northstar workflow.
 - `templates/scoring-rubric.md` — workflow scoring model for automation fit and risk.
 - `templates/client-safe-intake-questionnaire.md` — safe intake template for future approval-gated discovery without collecting sensitive data.
+- `templates/pilot-blueprint-template.md` — draft-only implementation-planning template with success, stop, rollback, and approval gates.
 - `templates/audit-report-template.md` — report structure with required safety/disclaimer sections.
 - `docs/service-one-pager.md` — local-only service positioning for a future ethical SMB audit offer.
 - `docs/discovery-call-script.md` — approval-gated validation call guide using redacted examples only.
@@ -39,4 +41,4 @@ This repository currently uses **fictional sample data only**. It is not a clien
 
 ## Suggested paid-offer shape later
 
-After approval, this could become a fixed-scope audit package: intake call, workflow map, top 3 safe automation opportunities, implementation risk notes, and a lightweight roadmap. The completed fictional report, fictional discovery notes, client-safe intake questionnaire, service one-pager, offer options, landing-page draft, local review checklist, and review packet are proof-of-deliverable/offer assets that can be reviewed locally before any public offer. Any outreach, public offer, payment setup, or client work requires Charlie's explicit approval first.
+After approval, this could become a fixed-scope audit package: intake call, workflow map, top 3 safe automation opportunities, implementation risk notes, and a lightweight roadmap. The completed fictional report, fictional discovery notes, client-safe intake questionnaire, pilot blueprint template, fictional pilot blueprint, service one-pager, offer options, landing-page draft, local review checklist, and review packet are proof-of-deliverable/offer assets that can be reviewed locally before any public offer. Any outreach, public offer, payment setup, or client work requires Charlie's explicit approval first.

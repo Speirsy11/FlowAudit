@@ -20,6 +20,7 @@ This repository is private/local as of 2026-05-15. Nothing in this changelog imp
 - Added public-safe landing page/FAQ draft copy, explicitly not published and not approved for outreach.
 - Added a local review checklist for privacy, offer-readiness, and approval gates.
 - Added a local review packet with deliverable summary, go/no-go criteria, and one-step approval options.
+- Added a draft-only pilot blueprint template and fictional Northstar pilot blueprint sample for the higher-value add-on deliverable.
 - Added `scripts/validate.js` and `npm run check` to verify required files and guardrail phrases.
 
 ### Verification
