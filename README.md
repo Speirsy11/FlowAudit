@@ -15,6 +15,7 @@ This repository currently uses **fictional sample data only**. It is not a clien
 - `docs/discovery-call-script.md` — approval-gated validation call guide using redacted examples only.
 - `docs/offer-options.md` — internal draft package/pricing options for later approval; not a financial guarantee.
 - `docs/landing-page-draft.md` — public-safe landing page/FAQ copy for review only; not published.
+- `docs/local-review-checklist.md` — internal pre-publication/privacy/approval checklist before anything leaves the local machine.
 - `scripts/validate.js` — tiny validation check that required guardrails and package files exist.
 
 ## Audit flow
@@ -35,4 +36,4 @@ This repository currently uses **fictional sample data only**. It is not a clien
 
 ## Suggested paid-offer shape later
 
-After approval, this could become a fixed-scope audit package: intake call, workflow map, top 3 safe automation opportunities, implementation risk notes, and a lightweight roadmap. The completed fictional report, fictional discovery notes, service one-pager, offer options, and landing-page draft are proof-of-deliverable/offer assets that can be reviewed locally before any public offer. Any outreach, public offer, payment setup, or client work requires Charlie's explicit approval first.
+After approval, this could become a fixed-scope audit package: intake call, workflow map, top 3 safe automation opportunities, implementation risk notes, and a lightweight roadmap. The completed fictional report, fictional discovery notes, service one-pager, offer options, landing-page draft, and local review checklist are proof-of-deliverable/offer assets that can be reviewed locally before any public offer. Any outreach, public offer, payment setup, or client work requires Charlie's explicit approval first.

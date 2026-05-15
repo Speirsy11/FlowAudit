@@ -14,6 +14,7 @@ const requiredFiles = [
   'docs/discovery-call-script.md',
   'docs/offer-options.md',
   'docs/landing-page-draft.md',
+  'docs/local-review-checklist.md',
 ];
 
 const requiredPhrases = [
@@ -35,6 +36,9 @@ const requiredPhrases = [
   'Do not publish',
   'fictional validation notes',
   'payment page',
+  'not approval to publish',
+  'real-client data-handling plan',
+  'choose exactly one approval-gated next step',
 ];
 
 let failures = [];
