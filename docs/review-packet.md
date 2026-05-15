@@ -29,7 +29,8 @@ Current status:
 11. Read `docs/private-remote-backup-plan.md` if private backup is the chosen next step.
 12. Walk through `docs/local-demo-script.md` as a fictional 5-minute review demo.
 13. Review `docs/public-repo-metadata-draft.md` for public-safe positioning and release blockers.
-14. Run `npm run check` to verify package completeness and required guardrail phrases.
+14. Fill `docs/review-worksheet.md` locally if Charlie wants a package-level go/no-go score.
+15. Run `npm run check` to verify package completeness and required guardrail phrases.
 
 ## Deliverables included
 
@@ -47,6 +48,7 @@ Current status:
 | `docs/offer-options.md` | Are the package boundaries clear enough to quote later? |
 | `docs/buyer-fit-checklist.md` | Are good-fit and poor-fit buyer signals explicit enough before validation? |
 | `docs/delivery-handoff-sheet.md` | Does the handoff clarify what the buyer receives and what remains out of scope? |
+| `docs/review-worksheet.md` | Can Charlie score package readiness before asking for any external approval? |
 | `docs/landing-page-draft.md` | Is the public copy safe enough to polish later without guarantees or hype? |
 | `docs/local-review-checklist.md` | Are approval gates explicit before anything leaves the local machine? |
 | `docs/local-demo-script.md` | Can the package be explained in five minutes using only fictional/local assets? |

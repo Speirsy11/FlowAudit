@@ -23,6 +23,7 @@ Use this before any future externalization decision for the SMB AI Workflow Audi
 - `docs/local-review-checklist.md` — package, privacy, offer-readiness, and approval checklist.
 - `docs/buyer-fit-checklist.md` — local buyer-fit and stop-signal checklist before validation.
 - `docs/delivery-handoff-sheet.md` — local handoff and delivery-boundary guide.
+- `docs/review-worksheet.md` — local package-readiness worksheet before any approval-gated next step.
 - `docs/local-demo-script.md` — fictional 5-minute walkthrough with no live audit or external action.
 - `docs/public-repo-metadata-draft.md` — local-only public-safe metadata and release checklist draft.
 - `docs/private-remote-backup-plan.md` — private backup approval wording, non-goals, rollback/containment, and success criteria.

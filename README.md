@@ -24,6 +24,7 @@ This repository currently uses **fictional sample data only**. It is not a clien
 - `docs/local-demo-script.md` — fictional 5-minute walkthrough from safe intake to report, pilot evidence, and externalization gates.
 - `docs/buyer-fit-checklist.md` — local checklist for good-fit/poor-fit buyer signals before validation.
 - `docs/delivery-handoff-sheet.md` — local one-page handoff guide for what a fictional buyer receives and what stays out of scope.
+- `docs/review-worksheet.md` — local worksheet for scoring the whole package before any approval-gated next step.
 - `docs/public-repo-metadata-draft.md` — public-safe repo title, description, keywords, sample policy, and release checklist draft.
 - `docs/review-packet.md` — local review packet with go/no-go criteria and approval-gated next-step options.
 - `docs/public-safe-redaction-check.md` — local preflight for private remote/public-safe readiness, sensitive-data checks, and approval gates.
