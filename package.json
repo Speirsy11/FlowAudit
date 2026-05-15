@@ -1,8 +1,8 @@
 {
-  "name": "smb-ai-workflow-audit-kit",
+  "name": "flow-audit",
   "version": "0.1.0",
   "private": true,
-  "description": "Local-only starter kit for fictional SMB AI workflow audit examples and safety-first report templates.",
+  "description": "Small-business AI workflow audit templates and sample reports.",
   "scripts": {
     "check": "node scripts/validate.js"
   },
