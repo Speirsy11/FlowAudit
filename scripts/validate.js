@@ -10,6 +10,7 @@ const requiredFiles = [
   'samples/fictional-discovery-notes.md',
   'samples/completed-audit-report.md',
   'templates/scoring-rubric.md',
+  'templates/client-safe-intake-questionnaire.md',
   'templates/audit-report-template.md',
   'docs/service-one-pager.md',
   'docs/discovery-call-script.md',
@@ -41,6 +42,10 @@ const requiredPhrases = [
   'real-client data-handling plan',
   'choose exactly one approval-gated next step',
   'No remote configured or pushed',
+  'Client-Safe Intake Questionnaire Template',
+  'Do not send this form',
+  'written client permission',
+  'Required stop conditions',
 ];
 
 let failures = [];

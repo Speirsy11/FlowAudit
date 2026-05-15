@@ -9,6 +9,7 @@ Use this before any future external validation step.
 - [ ] README explains the kit, flow, files, and guardrails in plain language.
 - [ ] Fictional intake, fictional discovery notes, and completed fictional report all line up around the same sample business.
 - [ ] Scoring rubric produces understandable priorities without implying guaranteed ROI.
+- [ ] Client-safe intake questionnaire avoids secrets, exports, regulated data, and implied implementation approval.
 - [ ] Audit report template includes non-goals, risks, rollback/deactivation steps, approval gates, and human review.
 - [ ] Offer options are clearly draft/internal and not a live price sheet.
 - [ ] Landing page copy is clearly draft-only and not published.
