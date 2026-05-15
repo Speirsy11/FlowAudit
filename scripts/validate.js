@@ -9,6 +9,8 @@ const requiredFiles = [
   'samples/completed-audit-report.md',
   'templates/scoring-rubric.md',
   'templates/audit-report-template.md',
+  'docs/service-one-pager.md',
+  'docs/discovery-call-script.md',
 ];
 
 const requiredPhrases = [
@@ -22,6 +24,10 @@ const requiredPhrases = [
   'Systems accessed: none',
   'draft-only pilot',
   'fictional and redacted-style details only',
+  'explicit written permission',
+  'No customer messages should be sent automatically',
+  'do not collect secrets',
+  'approval to contact people',
 ];
 
 let failures = [];

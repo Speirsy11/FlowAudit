@@ -10,7 +10,9 @@ This repository currently uses **fictional sample data only**. It is not a clien
 - `samples/completed-audit-report.md` — completed fictional report showing how the kit could be packaged for validation/sales conversations.
 - `templates/scoring-rubric.md` — workflow scoring model for automation fit and risk.
 - `templates/audit-report-template.md` — report structure with required safety/disclaimer sections.
-- `scripts/validate.js` — tiny validation check that required guardrails exist in the starter docs.
+- `docs/service-one-pager.md` — local-only service positioning for a future ethical SMB audit offer.
+- `docs/discovery-call-script.md` — approval-gated validation call guide using redacted examples only.
+- `scripts/validate.js` — tiny validation check that required guardrails and package files exist.
 
 ## Audit flow
 
@@ -30,4 +32,4 @@ This repository currently uses **fictional sample data only**. It is not a clien
 
 ## Suggested paid-offer shape later
 
-After approval, this could become a fixed-scope audit package: intake call, workflow map, top 3 safe automation opportunities, implementation risk notes, and a lightweight roadmap. The completed fictional report is a proof-of-deliverable that can be reviewed locally before any public offer. Any outreach, public offer, payment setup, or client work requires Charlie's explicit approval first.
+After approval, this could become a fixed-scope audit package: intake call, workflow map, top 3 safe automation opportunities, implementation risk notes, and a lightweight roadmap. The completed fictional report and docs/service-one-pager.md are proof-of-deliverable assets that can be reviewed locally before any public offer. Any outreach, public offer, payment setup, or client work requires Charlie's explicit approval first.
