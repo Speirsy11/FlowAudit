@@ -21,6 +21,7 @@ This repository currently uses **fictional sample data only**. It is not a clien
 - `docs/offer-options.md` — internal draft package/pricing options for later approval; not a financial guarantee.
 - `docs/landing-page-draft.md` — public-safe landing page/FAQ copy for review only; not published.
 - `docs/local-review-checklist.md` — internal pre-publication/privacy/approval checklist before anything leaves the local machine.
+- `docs/local-demo-script.md` — fictional 5-minute walkthrough from safe intake to report, pilot evidence, and externalization gates.
 - `docs/review-packet.md` — local review packet with go/no-go criteria and approval-gated next-step options.
 - `docs/public-safe-redaction-check.md` — local preflight for private remote/public-safe readiness, sensitive-data checks, and approval gates.
 - `docs/private-remote-backup-plan.md` — narrow approval plan for a future private backup without treating it as launch.
