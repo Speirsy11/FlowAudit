@@ -6,6 +6,7 @@ const root = path.resolve(__dirname, '..');
 const requiredFiles = [
   'README.md',
   'samples/fictional-intake.md',
+  'samples/completed-audit-report.md',
   'templates/scoring-rubric.md',
   'templates/audit-report-template.md',
 ];
@@ -18,6 +19,9 @@ const requiredPhrases = [
   'does not guarantee ROI',
   'No customer messages should be sent automatically',
   'rollback',
+  'Systems accessed: none',
+  'draft-only pilot',
+  'fictional and redacted-style details only',
 ];
 
 let failures = [];
