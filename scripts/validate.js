@@ -6,11 +6,14 @@ const root = path.resolve(__dirname, '..');
 const requiredFiles = [
   'README.md',
   'samples/fictional-intake.md',
+  'samples/fictional-discovery-notes.md',
   'samples/completed-audit-report.md',
   'templates/scoring-rubric.md',
   'templates/audit-report-template.md',
   'docs/service-one-pager.md',
   'docs/discovery-call-script.md',
+  'docs/offer-options.md',
+  'docs/landing-page-draft.md',
 ];
 
 const requiredPhrases = [
@@ -28,6 +31,10 @@ const requiredPhrases = [
   'No customer messages should be sent automatically',
   'do not collect secrets',
   'approval to contact people',
+  'not a financial guarantee',
+  'Do not publish',
+  'fictional validation notes',
+  'payment page',
 ];
 
 let failures = [];
