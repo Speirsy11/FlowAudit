@@ -22,6 +22,7 @@ Use this before any future externalization decision for the SMB AI Workflow Audi
 - `docs/review-packet.md` — local review order, deliverables, go/no-go criteria, and one-step approval choices.
 - `docs/local-review-checklist.md` — package, privacy, offer-readiness, and approval checklist.
 - `docs/local-demo-script.md` — fictional 5-minute walkthrough with no live audit or external action.
+- `docs/public-repo-metadata-draft.md` — local-only public-safe metadata and release checklist draft.
 - `docs/private-remote-backup-plan.md` — private backup approval wording, non-goals, rollback/containment, and success criteria.
 
 ### Fictional sample deliverables
