@@ -22,6 +22,7 @@ const requiredFiles = [
   'docs/landing-page-draft.md',
   'docs/local-review-checklist.md',
   'docs/review-packet.md',
+  'docs/public-safe-redaction-check.md',
 ];
 
 const requiredPhrases = [
@@ -62,6 +63,10 @@ const requiredPhrases = [
   'Fictional Acceptance Log',
   'Accept/light-edit rate',
   'Critical safety flags',
+  'Public-Safe / Private-Remote Preflight Check',
+  'Release-blocking findings',
+  'Do not create the remote or push until approved',
+  'private remote backup',
 ];
 
 let failures = [];

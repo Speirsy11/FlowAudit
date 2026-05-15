@@ -34,6 +34,7 @@ Use this before any future external validation step.
 ## 4. Approval gates before anything leaves local machine
 
 - [ ] Charlie approves whether this should stay private, move to a private remote, or become a public-safe repo.
+- [ ] `docs/public-safe-redaction-check.md` has been reviewed and any grep findings have been classified as expected guardrail text or blockers.
 - [ ] Charlie approves any landing page, waitlist, payment, scheduling, or analytics setup separately.
 - [ ] Charlie approves any outreach/message/call recipient, wording, and channel separately.
 - [ ] Charlie approves any real-client data-handling plan before non-fictional examples are collected.
