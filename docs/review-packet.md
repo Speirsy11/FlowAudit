@@ -20,14 +20,15 @@ Current status:
 2. Read `samples/completed-audit-report.md` as if receiving the deliverable after an audit.
 3. Read `templates/client-safe-intake-questionnaire.md` to confirm future intake would avoid secrets, exports, and regulated data.
 4. Read `docs/offer-options.md` for package clarity and whether the draft scope feels sellable.
-5. Read `samples/fictional-pilot-blueprint.md` to review the possible higher-value add-on deliverable.
-6. Read `samples/fictional-acceptance-log.md` to inspect how the pilot would be judged.
-7. Read `docs/landing-page-draft.md` for claims, safety, and CTA risk.
-8. Read `docs/public-safe-redaction-check.md` before considering any remote/public prep.
-9. Read `docs/private-remote-backup-plan.md` if private backup is the chosen next step.
-10. Walk through `docs/local-demo-script.md` as a fictional 5-minute review demo.
-11. Review `docs/public-repo-metadata-draft.md` for public-safe positioning and release blockers.
-12. Run `npm run check` to verify package completeness and required guardrail phrases.
+5. Review `docs/buyer-fit-checklist.md` for good-fit, poor-fit, and stop signals.
+6. Read `samples/fictional-pilot-blueprint.md` to review the possible higher-value add-on deliverable.
+7. Read `samples/fictional-acceptance-log.md` to inspect how the pilot would be judged.
+8. Read `docs/landing-page-draft.md` for claims, safety, and CTA risk.
+9. Read `docs/public-safe-redaction-check.md` before considering any remote/public prep.
+10. Read `docs/private-remote-backup-plan.md` if private backup is the chosen next step.
+11. Walk through `docs/local-demo-script.md` as a fictional 5-minute review demo.
+12. Review `docs/public-repo-metadata-draft.md` for public-safe positioning and release blockers.
+13. Run `npm run check` to verify package completeness and required guardrail phrases.
 
 ## Deliverables included
 
@@ -43,6 +44,7 @@ Current status:
 | `docs/service-one-pager.md` | Is the promise narrow, practical, and credible? |
 | `docs/discovery-call-script.md` | Could a future approved call validate demand without becoming outreach spam or consulting creep? |
 | `docs/offer-options.md` | Are the package boundaries clear enough to quote later? |
+| `docs/buyer-fit-checklist.md` | Are good-fit and poor-fit buyer signals explicit enough before validation? |
 | `docs/landing-page-draft.md` | Is the public copy safe enough to polish later without guarantees or hype? |
 | `docs/local-review-checklist.md` | Are approval gates explicit before anything leaves the local machine? |
 | `docs/local-demo-script.md` | Can the package be explained in five minutes using only fictional/local assets? |
