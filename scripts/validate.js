@@ -5,6 +5,7 @@ const path = require('path');
 const root = path.resolve(__dirname, '..');
 const requiredFiles = [
   'README.md',
+  'CHANGELOG.md',
   'samples/fictional-intake.md',
   'samples/fictional-discovery-notes.md',
   'samples/completed-audit-report.md',
@@ -39,6 +40,7 @@ const requiredPhrases = [
   'not approval to publish',
   'real-client data-handling plan',
   'choose exactly one approval-gated next step',
+  'No remote configured or pushed',
 ];
 
 let failures = [];

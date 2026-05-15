@@ -16,6 +16,7 @@ This repository currently uses **fictional sample data only**. It is not a clien
 - `docs/offer-options.md` — internal draft package/pricing options for later approval; not a financial guarantee.
 - `docs/landing-page-draft.md` — public-safe landing page/FAQ copy for review only; not published.
 - `docs/local-review-checklist.md` — internal pre-publication/privacy/approval checklist before anything leaves the local machine.
+- `CHANGELOG.md` — concise local change summary and current status for review.
 - `scripts/validate.js` — tiny validation check that required guardrails and package files exist.
 
 ## Audit flow
