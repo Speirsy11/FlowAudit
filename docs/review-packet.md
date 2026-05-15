@@ -21,8 +21,9 @@ Current status:
 3. Read `templates/client-safe-intake-questionnaire.md` to confirm future intake would avoid secrets, exports, and regulated data.
 4. Read `docs/offer-options.md` for package clarity and whether the draft scope feels sellable.
 5. Read `samples/fictional-pilot-blueprint.md` to review the possible higher-value add-on deliverable.
-6. Read `docs/landing-page-draft.md` for claims, safety, and CTA risk.
-7. Run `npm run check` to verify package completeness and required guardrail phrases.
+6. Read `samples/fictional-acceptance-log.md` to inspect how the pilot would be judged.
+7. Read `docs/landing-page-draft.md` for claims, safety, and CTA risk.
+8. Run `npm run check` to verify package completeness and required guardrail phrases.
 
 ## Deliverables included
 
@@ -33,6 +34,8 @@ Current status:
 | `templates/client-safe-intake-questionnaire.md` | Does intake avoid sensitive data and stop risky scopes early? |
 | `templates/pilot-blueprint-template.md` | Is the post-audit pilot planning deliverable bounded, reversible, and draft-only? |
 | `samples/fictional-pilot-blueprint.md` | Does the higher-value add-on feel concrete without requiring live integrations? |
+| `templates/acceptance-scorecard.md` | Is there a clear evidence gate before continuing or implementing? |
+| `samples/fictional-acceptance-log.md` | Does the sample show useful accept/edit/reject evidence and stop conditions? |
 | `docs/service-one-pager.md` | Is the promise narrow, practical, and credible? |
 | `docs/discovery-call-script.md` | Could a future approved call validate demand without becoming outreach spam or consulting creep? |
 | `docs/offer-options.md` | Are the package boundaries clear enough to quote later? |

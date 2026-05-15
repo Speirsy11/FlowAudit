@@ -10,9 +10,11 @@ const requiredFiles = [
   'samples/fictional-discovery-notes.md',
   'samples/completed-audit-report.md',
   'samples/fictional-pilot-blueprint.md',
+  'samples/fictional-acceptance-log.md',
   'templates/scoring-rubric.md',
   'templates/client-safe-intake-questionnaire.md',
   'templates/pilot-blueprint-template.md',
+  'templates/acceptance-scorecard.md',
   'templates/audit-report-template.md',
   'docs/service-one-pager.md',
   'docs/discovery-call-script.md',
@@ -56,6 +58,10 @@ const requiredPhrases = [
   'No automatic customer messages',
   'Stop conditions',
   'Rollback/deactivation',
+  'Pilot Acceptance Scorecard Template',
+  'Fictional Acceptance Log',
+  'Accept/light-edit rate',
+  'Critical safety flags',
 ];
 
 let failures = [];
