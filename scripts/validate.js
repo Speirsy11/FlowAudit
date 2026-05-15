@@ -17,6 +17,7 @@ const requiredFiles = [
   'docs/offer-options.md',
   'docs/landing-page-draft.md',
   'docs/local-review-checklist.md',
+  'docs/review-packet.md',
 ];
 
 const requiredPhrases = [
@@ -46,6 +47,10 @@ const requiredPhrases = [
   'Do not send this form',
   'written client permission',
   'Required stop conditions',
+  'Go / no-go criteria',
+  'Choose exactly one later',
+  'private remote backup',
+  'not approval to publish',
 ];
 
 let failures = [];

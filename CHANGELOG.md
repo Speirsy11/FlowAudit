@@ -19,6 +19,7 @@ This repository is private/local as of 2026-05-15. Nothing in this changelog imp
 - Added draft offer options for later approval, explicitly not a live price sheet or financial guarantee.
 - Added public-safe landing page/FAQ draft copy, explicitly not published and not approved for outreach.
 - Added a local review checklist for privacy, offer-readiness, and approval gates.
+- Added a local review packet with deliverable summary, go/no-go criteria, and one-step approval options.
 - Added `scripts/validate.js` and `npm run check` to verify required files and guardrail phrases.
 
 ### Verification
